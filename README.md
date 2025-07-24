@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chopinetic aka Chop'1</h1>
-<h3 align="center">A passionate backend developpers, i can do front-end but i hate it</h3>
+<h3 align="center">A passionate a 18 years old backend developpers, i can do front-end but i hate it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chopinetic&label=Profile%20views&color=0e75b6&style=flat" alt="chopinetic" /> </p>
 
